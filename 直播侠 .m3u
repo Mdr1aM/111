@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 ,CCTV1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
 http://iptv.tvfix.org/hls/cctv1hd.m3u8
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 ,CCTV2 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png"
 http://iptv.tvfix.org/hls/cctv2hd.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 ,CCTV3 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png"
 http://iptv.tvfix.org/hls/cctv3hd.m3u8
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 ,CCTV4 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png"
 http://iptv.tvfix.org/hls/cctv4hd.m3u8
-#EXTINF:-1 ,CCTV5
-http://iptv.tvfix.org/hls/cctv5hd.m3u8
-#EXTINF:-1 ,CCTV5+
-http://iptv.tvfix.org/hls/cctv5phd.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 tvg-id=“5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中国",CCTV-5
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中国",CCTV-5+
+http://61.164.158.154:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+#EXTINF:-1 ,CCTV6 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png"
 http://iptv.tvfix.org/hls/cctv6hd.m3u8
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 ,CCTV7 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png"
 http://iptv.tvfix.org/hls/cctv7hd.m3u8
 #EXTINF:-1 ,CCTV8
 http://iptv.tvfix.org/hls/cctv8hd.m3u8
@@ -33,6 +33,8 @@ http://iptv.tvfix.org/hls/cctv14hd.m3u8
 http://iptv.tvfix.org/hls/cctv15hd.m3u8
 #EXTINF:-1 ,CCTV16
 http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K 14M2160HDR
+http://223.110.236.8/ott.js.chinamobile.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 ,CCTV17
 http://iptv.tvfix.org/hls/cctv17hd.m3u8
 #EXTINF:-1 ,北京卫视
