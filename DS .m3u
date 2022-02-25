@@ -71,6 +71,14 @@ http://iptv.tvfix.org/hls/sdhd.m3u8
 http://iptv.tvfix.org/hls/cqhd.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://iptv.tvfix.org/hls/schd.m3u8
+#EXTINF:-1 tvg-name="ABC News US" tvg-logo="https://www.hualigs.cn/image/6155549e6b7a4.jpg" group-title="特色",ABC News US
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.hualigs.cn/image/6155648caf500.jpg" group-title="特色",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX News NOW" tvg-logo="https://www.hualigs.cn/image/61559500202ef.jpg" group-title="特色",FOX News NOW
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC NEWS" tvg-logo="https://www.hualigs.cn/image/61555d61ab15d.jpg" group-title="特色",NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E7%BF%A1%E7%BF%A0%E5%8F%B0.png" group-title="特色",翡翠台
 http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="特色",无线新闻
@@ -87,6 +95,8 @@ http://iptv.tvfix.org/hls/fhzx.m3u8
 http://iptv.tvfix.org/hls/fhzw.m3u8
 #EXTINF:-1 tvg-name="TVN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvN.png" group-title="特色",TVN
 http://iptv.tvfix.org/hls/tvn.m3u8
+#EXTINF:-1 tvg-name="阿里郎TV" tvg-logo="https://www.hualigs.cn/image/61554ceba2b55.jpg" group-title="特色",阿里郎TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="NHK综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHK.png" group-title="特色",NHK综合
 http://iptv.tvfix.org/hls/nhkg.m3u8
 #EXTINF:-1 tvg-name="美亚电影台(普通话)" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="特色",美亚电影台(普通话)
