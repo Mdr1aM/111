@@ -109,7 +109,7 @@ http://iptv.tvfix.org/hls/discovery.m3u8
 http://iptv.tvfix.org/hls/animal.m3u8
 #EXTINF:-1 tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="特色",全纪实
 http://iptv.tvfix.org/hls/qjshd.m3u8
-#EXTINF:-1 ,PP体育
+#EXTINF:-1 tvg-name="PP体育" group-title="特色",PP体育
 http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="特色",劲爆体育
 http://iptv.tvfix.org/hls/jbtyhd.m3u8
